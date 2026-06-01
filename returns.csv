@@ -1,0 +1,33 @@
+return_id,order_id,product_id,return_reason
+1,1,30,Damaged
+2,14,12,Late delivery
+3,29,13,Wrong item
+4,34,26,Late delivery
+5,40,20,Damaged
+6,42,3,Late delivery
+7,43,7,Damaged
+8,47,27,Changed mind
+9,50,9,Changed mind
+10,64,21,Wrong item
+11,66,13,Changed mind
+12,81,14,Damaged
+13,81,8,Damaged
+14,83,30,Damaged
+15,103,5,Wrong item
+16,108,6,Wrong item
+17,113,12,Wrong item
+18,114,3,Damaged
+19,115,22,Changed mind
+20,124,12,Damaged
+21,128,20,Damaged
+22,139,23,Wrong item
+23,140,2,Changed mind
+24,141,8,Damaged
+25,164,27,Wrong item
+26,167,2,Damaged
+27,193,10,Damaged
+28,221,23,Wrong item
+29,224,30,Changed mind
+30,234,21,Changed mind
+31,240,9,Changed mind
+32,250,21,Late delivery
